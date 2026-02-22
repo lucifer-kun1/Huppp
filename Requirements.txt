@@ -1,0 +1,5 @@
+undetected-chromedriver
+2captcha-python
+requests
+colorama
+selenium
