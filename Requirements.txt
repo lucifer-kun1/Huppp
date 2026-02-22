@@ -3,3 +3,5 @@ undetected-chromedriver
 requests
 colorama
 selenium
+one liner install
+pip install undetected-chromedriver 2captcha-python requests colorama selenium
