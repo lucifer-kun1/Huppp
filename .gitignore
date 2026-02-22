@@ -1,0 +1,15 @@
+# Local data and saved tokens
+output/
+tokens.txt
+finished_tokens.txt
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE and Environment
+.env
+venv/
+.vscode/
+.idea/
